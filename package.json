@@ -1,0 +1,12 @@
+{
+  "name": "vue-ssr-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:yangbai1991/vue-ssr-demo.git",
+  "author": "baiyang <bai.yang@activenetwork.com>",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^2.5.7",
+    "vue-server-renderer": "^2.5.7"
+  }
+}
